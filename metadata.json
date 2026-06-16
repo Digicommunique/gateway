@@ -1,0 +1,6 @@
+{
+  "name": "MedConnect Telehealth & Pharmacy",
+  "description": "An integrated Medical Consultancy, E-Prescription, Multi-city Pharmacy Network, and Last-Mile Delivery Management Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
